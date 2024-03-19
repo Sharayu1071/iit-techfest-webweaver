@@ -1,4 +1,6 @@
-# iit-techfest-webweaver
+# IIT Bombay TechFest
+
+# Event WebWeaver
 
 Web Weaver Competition 
 
